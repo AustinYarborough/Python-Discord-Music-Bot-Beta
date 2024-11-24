@@ -1,1 +1,3 @@
 # Python-Discord-Music-Bot-Beta
+
+this was going to be not a music bot but for some reason I named it wrong and I am too lazy to change it so yeah.....
